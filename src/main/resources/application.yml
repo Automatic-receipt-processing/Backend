@@ -8,5 +8,5 @@ spring:
       server:
         git:
           uri: https://github.com/Automatic-receipt-processing/Backend
-          search-paths: config/**
+#          search-paths: config/**
           default-label: JUN-2
