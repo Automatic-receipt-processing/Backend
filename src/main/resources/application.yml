@@ -7,6 +7,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Junseokee/Config
+          uri: https://github.com/Automatic-receipt-processing/Backend
           search-paths: config/**
-          default-label: main
+          default-label: JUN-2
